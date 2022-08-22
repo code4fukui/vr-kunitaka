@@ -2,4 +2,4 @@
 
 ## VR交差点体験
 
-https://s55537dy.github.io/vr-kunitaka/
+https://code4fukui.github.io/vr-kunitaka/

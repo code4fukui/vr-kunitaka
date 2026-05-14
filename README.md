@@ -10,7 +10,7 @@ A web-based VR experience showcasing two real-world intersections in Takefu, Fuk
 
 Experience the intersections live in your browser:
 
-👉 **https://code4fukui.github.io/vr-kunitaka/**
+👉 **https://github.com/code4fukui/vr-kunitaka
 
 The demo features two explorable scenes:
 - **Takefu High School Intersection (`cross1.html`):** A static scene allowing you to explore the scanned environment.

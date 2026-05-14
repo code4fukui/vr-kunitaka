@@ -8,7 +8,7 @@
 
 ブラウザ上で交差点を実際に体験できます:
 
-👉 **https://code4fukui.github.io/vr-kunitaka/**
+👉 **https://github.com/code4fukui/vr-kunitaka
 
 デモには探索可能な2つのシーンが用意されています:
 - **武生高校前交差点 (`cross1.html`):** スキャンされた環境を自由に探索できる静的なシーン。
